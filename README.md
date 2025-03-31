@@ -1,4 +1,7 @@
 ## Hi there 👋
+Salut je suis Ewan Rookie de la programation 
+
+
 
 <!--
 **EwanoP/EwanoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
